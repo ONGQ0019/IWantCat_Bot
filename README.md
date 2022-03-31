@@ -19,3 +19,4 @@ Screenshots:
 In-line screenshots:
 ![image](https://user-images.githubusercontent.com/102540895/160996619-8ee4a1ef-9225-403c-9974-7b8fb0ee68d5.png)
 ![image](https://user-images.githubusercontent.com/102540895/160998273-d526ea02-1f13-4646-aed0-a077141c9072.png)
+![](https://media.giphy.com/media/S6oSxHv4KS1a6r5cBE/giphy.gif)
